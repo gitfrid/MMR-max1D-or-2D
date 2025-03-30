@@ -114,7 +114,7 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt countries including trend line categories , <br>M-containing vac 2nd Dose for years 1980-2023:
+### Vax coverage vs case incidence rate for differnt countries, <br>M-containing vac max(1st or 2nd Dose) for years 1980-2023:
 
 .
 <br>
