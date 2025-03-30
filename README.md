@@ -48,7 +48,7 @@ The causal effect estimation gives a numerical value indicating how much the out
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties, M-containing vac max(1st or 2nd Dose)
+### Vax coverage vs case incidence rate for differnt countries, M-containing vac max(1st or 2nd Dose)
 
 Phyton script [A) MMR.py](https://github.com/gitfrid/MMR-max1D-or-2D/blob/main/A%29%20MMR.py) for visualizing the downloaded CSV data
 
@@ -63,7 +63,7 @@ To select or deselect all countries, double-click on the legend. To select a sin
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories , M-containing vac max(1st or 2nd Dose) 1980-2023:
+### Vax coverage vs case incidence rate for differnt countries including trend line categories , M-containing vac max(1st or 2nd Dose) 1980-2023:
     Rising Coverage and Rising Cases:
     Falling Coverage and Falling Cases:
     Rising Coverage and Falling Cases:
@@ -114,7 +114,7 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories , <br>M-containing vac 2nd Dose for years 1980-2023:
+### Vax coverage vs case incidence rate for differnt countries including trend line categories , <br>M-containing vac 2nd Dose for years 1980-2023:
 
 .
 <br>
