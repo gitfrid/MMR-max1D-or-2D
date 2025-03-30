@@ -16,7 +16,7 @@ Case incidence rate per 1M
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
 _________________________________________
 
-### Dowhy causal impact estimation vax coverage on measles case incidence rate for differnt countries, <br>M-containing vac max(1st or 2nd) Dose
+### Dowhy causal impact estimation vax coverage on measles case incidence rate/1M for differnt countries, <br>M-containing vac max(1st or 2nd) Dose
 
 <br>
 <p>DoWhy is a Python library for causal inference that allows modeling and testing of causal assumptions, based on a unified language for causal inference.
