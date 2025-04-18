@@ -1,4 +1,4 @@
-### MMR-py vax coverage max(1st or 2nd Dose) vs Measles case incidence rate /1M for differnet european Countires 
+### MMR-py vax coverage max(1st or 2nd Dose) vs Measles case incidence rate /1M for differnet Countires 
 <br>
 <br>
 
